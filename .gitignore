@@ -1,0 +1,14 @@
+# Modules
+node_modules/
+
+# Coverage
+coverage/
+
+# Builded files
+bin/
+
+# Docs
+docs/
+
+# Test file
+__test.js
